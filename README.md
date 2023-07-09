@@ -1,7 +1,7 @@
 - 👋 Olá, meu nome é  Jaime
 - 👀 Estou interessado em desenvolvimento WEB, para a criação de websites 
 - 🌱 No momento estudo web design
-- 📫 Preencho está parte depois!
+- 📫 Depois coloco meus contactos!
 
 <!---
 JaimeCardos0/JaimeCardos0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
